@@ -1,9 +1,9 @@
-Usage
+Serverinstallation
 =====
 
 .. _installation:
 
-Installation
+Hyper-V Server
 ------------
 
 To use Lumache, first install it using pip:
@@ -12,7 +12,7 @@ To use Lumache, first install it using pip:
 
    (.venv) $ pip install lumache
 
-Creating recipes
+Active Directory Server
 ----------------
 
 To retrieve a list of random ingredients,
@@ -26,9 +26,5 @@ will raise an exception.
 
 .. autoexception:: lumache.InvalidKindError
 
-For example:
-
->>> import lumache
->>> lumache.get_random_ingredients()
-['shells', 'gorgonzola', 'parsley']
-
+App Server
+----------------
