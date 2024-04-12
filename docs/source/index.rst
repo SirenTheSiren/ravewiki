@@ -9,4 +9,6 @@ Inhalt
 
 .. toctree::
 
-   serverinstallation
+   windows
+   linux
+   macos
