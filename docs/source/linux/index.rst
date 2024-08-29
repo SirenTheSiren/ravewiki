@@ -2,4 +2,4 @@ Anleitungen für Linux
 
 .. toctree::
 
-  UniFi
+  unifi/index
