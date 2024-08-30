@@ -1,2 +1,0 @@
-Anleitungen für Linux
-=====
