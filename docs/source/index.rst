@@ -9,6 +9,6 @@ Inhalt
 
 .. toctree::
 
-   windows
-   linux
-   macos
+   windows/index
+   linux/index
+   macos/index
