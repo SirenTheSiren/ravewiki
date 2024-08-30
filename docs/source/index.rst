@@ -1,4 +1,4 @@
-Willkommen in meinem Wiki
+RaveWiki
 ===================================
 
 .. note::
