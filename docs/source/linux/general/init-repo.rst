@@ -17,7 +17,9 @@ Git Repository initialisieren
     git push -u origin main
 
 2. Pushing an existing repository from the command line
-``
-git remote add origin https://git.sirenthesiren.xyz/SirenTheSiren/berufsschule.git
-git push -u origin main
-``
+
+.. code.block:: bash
+    :lineos:
+
+    git remote add origin https://git.sirenthesiren.xyz/SirenTheSiren/berufsschule.git
+    git push -u origin main
