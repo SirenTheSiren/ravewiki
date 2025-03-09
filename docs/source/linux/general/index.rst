@@ -1,1 +1,3 @@
+.. toctree::
 
+  init-repo
