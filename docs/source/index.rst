@@ -12,3 +12,4 @@ Inhalt
    windows/index
    linux/index
    macos/index
+   misc/index
