@@ -29,7 +29,7 @@ templates_path = ['_templates']
 
 # -- Options for HTML output
 
-html_theme = 'sphinx-rtd-dark-mode'
+html_theme = 'sphinx_rtd_theme'
 
 html_theme_options = {
     'navigation_depth': 4,
